@@ -1,5 +1,5 @@
 # Hello! 👋
-I am Rikuo Wada, a Web Design and Development student studying at NAIT. 
+My name is Rikuo Wada, a Web Design and Development student studying at NAIT. 
 
 I am currently learning how to build responsive and user-friendly websites.
 
