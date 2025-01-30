@@ -11,7 +11,7 @@ I am currently learning how to build responsive and user-friendly websites.
 - PHP
 - UX/UI practices
 
-🎹 I also have a diploma in Audio Engineering and Production and make music on the side! ## Hi there 👋
+🎹 I also have a diploma in Audio Engineering & Production and make music on the side!
 
 <!--
 **rkwada/rkwada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
