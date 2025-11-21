@@ -1,15 +1,13 @@
 # Hello! 👋
 My name is Rikuo Wada, an emerging Web Designer and Front-End Developer.
 
-I am currently learning how to build responsive and user-friendly websites.
+I am currently working on my Capstone Project at NAIT.
 
 💻 Skills: 
 - HTML, CSS, JavaScript
-- GitHub, Figma, VS Code
-
-🔜 Currently learning: 
-- PHP
-- UX/UI practices
+- Git/GitHub, Figma, VS Code
+- React, Astro
+- WordPress, Strapi
 
 🎹 I also have a diploma in Audio Engineering & Production and make music on the side!
 
